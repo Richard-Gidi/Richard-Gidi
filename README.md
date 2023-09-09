@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Richard-Gidi
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning to properly visualize my data
+
 - 💞️ I’m looking to collaborate on machine learning and predictive analysis
-- 📫 How to reach me https://www.linkedin.com/in/richard-gidi-1b6109254
+- 📫 How to reach me https://www.linkedin.com/in/richard-gidi
 - Ask me about anime
 
 <!---
