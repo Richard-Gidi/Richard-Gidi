@@ -7,6 +7,7 @@
 💌 It’s a big world out there, and I'm extending an open invitation for you to introduce me to you and your company. I would love to chat about data, projects, or even your favorite anime!
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Gidi)](https://github.com/Richard-Gidi/github-readme-stats)
 
 ### Let's Connect!
 
