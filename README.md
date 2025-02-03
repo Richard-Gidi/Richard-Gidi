@@ -15,6 +15,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/richard-gidi) (I promise I’m not a bot—just a friendly data nerd!).
 
 ---
+[![Gidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Gidi)](https://github.com/Richard-Gidi/github-readme-stats)
 
 
 
