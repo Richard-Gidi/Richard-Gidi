@@ -17,5 +17,7 @@
 ---
 [![Gidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Gidi&show_icons=true)](https://github.com/Richard-Gidi/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Gidi)](https://github.com/Richard-Gidi/github-readme-stats)
+
 
 
